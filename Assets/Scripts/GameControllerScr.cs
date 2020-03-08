@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class GameControllerScr : MonoBehaviour
 {
-   public List<GameObject> wayPoints = new List<GameObject>();
+   //public List<GameObject> wayPoints = new List<GameObject>();
 }
